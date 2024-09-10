@@ -11,7 +11,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de
 
 |Aulas | Resumos |
 |------| --------|
-|Gravando alterações no repositório local| [Resumos]()
+|Aula 01| [Resumos]()
+|Aula 02| [Resumos]()
 
 ```
 GIT INIT
